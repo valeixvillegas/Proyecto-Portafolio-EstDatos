@@ -1,0 +1,3 @@
+Expresión: 2 3 +; Resultado: 5
+Expresión: 2 3 4 + *; Resultado: 14
+Expresión: 2 4 + 7 * 3 9 5 * +; Resultado: 48
