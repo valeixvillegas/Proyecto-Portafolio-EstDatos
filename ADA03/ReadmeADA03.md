@@ -1,0 +1,5 @@
+El objetivo principal fue desarrollar un sistema que utilizara el archivo Movie.csv para almacenar y manipular la información de películas de manera eficiente, haciendo buen uso de la estructura de Listas Doblemente Ligadas.
+Debia leer el archivo Movie.csv e insertar los datos relevantes de las películas en la lista, permitir la búsqueda de películas por título o la búsqueda de un actor (cast), insertar una nueva película, eliminar una película.
+
+Entendí que la ventaja de tener un puntero al nodo anterior (prev) y al nodo siguiente (next) simplifica enormemente las operaciones de inserción y eliminación en medio de la lista . Esto hizo que la implementación de funciones como Insertar y Eliminar fueran más eficientes, ya que no tenía que recorrer toda la lista desde el inicio para encontrar el nodo anterior.
+La dificultad principal fue asegurar que las funciones de Insertar y Eliminar funcionaran correctamente en todos los casos: cuando la lista estaba vacía, cuando la operación era en el inicio de la lista (cambiando la cabeza), y cuando era en el final de la lista (cambiando la cola).
