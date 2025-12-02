@@ -1,0 +1,6 @@
+Esta actividad fue diferente a las anteriores porque no solo se trataba de implementar una estructura de datos (como Pilas o Listas), sino de poner en práctica los algoritmos de ordenamiento que vimos en clase y hacerlo en un entorno de colaboración real utilizando GitHub.
+El objetivo era tomar el código base del repositorio del profesor e implementar el algoritmo de ordenamiento que nos tocó. El repositorio ya tenía el esqueleto del programa en C (sorting.c) con funciones útiles para crear y mostrar arreglos, así que nuestra tarea fue rellenar la lógica del algoritmo.
+
+Aprendí a usar Git de forma práctica: clonar, crear ramas, hacer commits y, sobre todo, generar Pull Requests. Entendí por qué el control de versiones es indispensable en cualquier proyectO, ya que permite que múltiples personas trabajen en el mismo código sin destruirlo.
+Aunque fue un proceso guiado, crear mi primer Pull Request fue un poco intimidante. Asegurarme de que mi código estuviera limpio, que mis commits fueran claros, y prepararme para posibles conflictos de fusión con el trabajo de otros compañeros fue un reto.
+Si tuvimos varias complicaciones y confusiones que al final no pudimos hacer que se identificara nuestra rama en el repositorio.
